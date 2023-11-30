@@ -1,6 +1,6 @@
 # Hi, I'm Ubaid 👋
 
-A Computer Science student at UIT University and a software developer @TechStack Digital. Coding is my passion, and I love turning ideas into software!
+Computer Science student at UIT University | Software Dev @ TechStack Digital. Coding is my passion, and I love turning ideas into software!
 
 ## 📊 GitHub Stats
 
