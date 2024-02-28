@@ -8,10 +8,6 @@ Computer Science student at UIT University | Software Dev @ TechStack Digital. C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidrmn&layout=compact&theme=radical)](https://github.com/ubaidrmn/github-readme-stats)
 
-## 🌱 Currently Learning
-
-I'm always eager to learn new things, and at the moment I'm learning ML.
-
 ## 📫 Let's Connect
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ubaid-ur-rehman-aa7b501b4/). I'm always open to new opportunities and discussions.
